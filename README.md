@@ -106,7 +106,7 @@ Run the main analysis script:
 * Report bugs and request features using the GitHub Issues tab.
 ## License and Acknowledgments
 ### License
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MPL 2.0 License - see the LICENSE file for details
 ## Acknowledgments
 * Delhi Metro Rail Corporation (DMRC) for providing the data.
 * Third-Party Libraries: 
